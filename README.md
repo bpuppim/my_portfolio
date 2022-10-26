@@ -1,1 +1,1 @@
- https://bpuppim.github.io/my_portifolio/
+ https://bpuppim.github.io/my_portfolio/
